@@ -1,0 +1,8 @@
+{
+    "isbn": 00001,
+    "titulo": "Livro Teste 1",
+    "edicao": 1,
+    "autor": "Rafa",
+    "categoria": "INFORMATICA",
+    "modelo": "EBOOK"
+}
